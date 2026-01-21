@@ -6,4 +6,4 @@ I created a model that would help University XYZ determine which students should
 
 I experimented with multiple models and the logistic regression model with a l1 penalty was the most accurate with the smallest calculable error. This model had the highest testing accuracy over all the other models and it was the least overfit. furthermore, after reviewing the confusion matrix and the classification report, this model had the fewest false positives and it had clearly defined classes after reviewing the ROC AUC.
 
-University XYZ received the model and deployed it successfully. Contract Complete
+University XYZ received the model and deployed it successfully. Contract Complete. Closing out
